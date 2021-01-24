@@ -39,5 +39,5 @@ def turn(board)
     else 
       turn(board)
     end 
-  move(array, index, value = "X")
+  #move(array, index, value = "X")
 end
